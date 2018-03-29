@@ -11,7 +11,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='tour_guide',
+    name='XXXXXXXXXXXXX',
 
     # Versions follow MAJOR.MINOR.MAINTENANCE
     # MAJOR: Changes incompatible with prior version
@@ -19,17 +19,17 @@ setup(
     # MAINTENANCE: Backwards-compatible bug fixes with no new functionality
     # See http://semver.org/ for more information.
     version='0.0.0',
-    packages=['tour_guide'],
+    packages=['XXXXXXXXXXXXX],
 
-    description='Functionality for work on neighborhoods.com TourGuide.',
+    description='XXXXXXXXXXXXX',
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/neighborhoods/TourGuide',
+    url='XXXXXXXXXXXXX',
 
     # Author details
-    author='David Zornek',
-    author_email='david.zornek@neighborhoods.com',
+    author='XXXXXXXXXXXXX',
+    author_email='XXXXXXXXXXXXX',
 
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
